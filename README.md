@@ -5,3 +5,6 @@
 ## Edit in feature-1 branch.
 
 ## Edit in feature-2 branch.
+
+## Edit in master branch.
+
